@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051193413508",
+    "project_id": "pawertic-59c0a",
+    "storage_bucket": "pawertic-59c0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051193413508:android:d3886530a6a77168f797d1",
+        "android_client_info": {
+          "package_name": "com.pawertic.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUWxMYEuyeNh0o98xCifdFZzE0f_NMfts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
